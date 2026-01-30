@@ -53,3 +53,7 @@ terraform.rc
 # Ignore the Terraform lock file that is created to maintain consistency between
 # Terraform provider selections and versions used in your configuration.
 .terraform.lock.hcl
+
+# ignore env files
+*.env
+.env_encoded
