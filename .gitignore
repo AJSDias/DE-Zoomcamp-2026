@@ -2,6 +2,9 @@
 *.parquet
 *.csv
 
+# Ignore databases
+*db
+
 # Ignore json files
 *.json
 
