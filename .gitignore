@@ -60,3 +60,4 @@ terraform.rc
 # ignore env files
 *.env
 .env_encoded
+.bruin.yml
