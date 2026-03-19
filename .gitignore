@@ -61,3 +61,7 @@ terraform.rc
 *.env
 .env_encoded
 .bruin.yml
+
+# Ignore crc files
+*.crc
+_SUCCESS
